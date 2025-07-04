@@ -1,9 +1,7 @@
 # What is Ports
 ---
 
-## 📄 **Port, Service aur Vulnerability **
-
-## 🧠 Ports, Services aur Vulnerability Ka Asli Scene
+## 📄 **Port, Service aur Vulnerability**
 
 ---
 
