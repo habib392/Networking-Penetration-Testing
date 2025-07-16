@@ -37,7 +37,7 @@
 Mac Address **a-f** tk or **0-9** tk hoo sakta hai example 
 
 **0b:21:da:4c:e5:7a**
-
+**b8:c9:b5:cc:a6:21**
 ---
 
 ## 5. MAC Address Lookup
