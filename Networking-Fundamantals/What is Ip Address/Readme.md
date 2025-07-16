@@ -117,11 +117,11 @@ IPv6 vectors: tunneling attacks, misconfigured DNS
 Client ka original IP jab proxy/load balancer use hota hai
 
 Burp Suite request mein modify karke WAF/Ratelimit bypass:
-
-```GET / HTTP/1.1
+```
+GET / HTTP/1.1
 Host: target.com
-X-Forwarded-For: 127.0.0.1```
-
+X-Forwarded-For: 127.0.0.1
+```
 ---
 
 8. Q&A summary
