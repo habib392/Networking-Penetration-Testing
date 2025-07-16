@@ -31,6 +31,13 @@
   * `D0:F1:02` → OPPO company ka code (OUI)
   * `3B:4C:5D` → Device-specific unique code
 
+---
+
+## Mac Address Combination 
+Mac Address a-f tk or 0-9 tk hoo sakta hai example 
+
+**0b:21:da:4c:e5:7a**
+
 ## 5. MAC Address Lookup
 
 * Kisi bhi device ka MAC address dekhne ke liye lookup tools use kar sakte ho:
