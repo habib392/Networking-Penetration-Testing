@@ -60,14 +60,14 @@ Example breakdown:
 
 Block	Function
 
-2001	Global network prefix
-0db8	Example/documentation network
-85a3	Subnet info
-0000	Reserved/subnet
-0000	Reserved
-8a2e	Interface ID part
-0370	Interface ID
-7334	Interface ID last part
+- 2001	Global network prefix
+- 0db8	Example/documentation network
+- 85a3	Subnet info
+- 0000	Reserved/subnet
+- 0000	Reserved
+- 8a2e	Interface ID part
+- 0370	Interface ID
+- 7334	Interface ID last part
 
 
 Compression: 0000 blocks ko :: se replace
@@ -95,13 +95,13 @@ IPv6 vectors: tunneling attacks, misconfigured DNS
 
 1. Command line tools:
 
-ping example.com
+```ping example.com```
 
-nslookup example.com
+```nslookup example.com```
 
-dig example.com
+```dig example.com```
 
-host example.com
+```host example.com```
 
 ---
 
@@ -118,9 +118,9 @@ Client ka original IP jab proxy/load balancer use hota hai
 
 Burp Suite request mein modify karke WAF/Ratelimit bypass:
 
-GET / HTTP/1.1
+```GET / HTTP/1.1
 Host: target.com
-X-Forwarded-For: 127.0.0.1
+X-Forwarded-For: 127.0.0.1```
 
 ---
 
