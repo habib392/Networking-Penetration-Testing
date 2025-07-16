@@ -164,7 +164,7 @@ Ya search karo:
 
 ---
 
-## 🚀 Habib's Pentesting Style:
+## 🚀 Pentesting Style:
 
 1. Nmap se scan kar
 2. Version check kar
@@ -177,10 +177,3 @@ Ya search karo:
 
 🧠 **Yaad Rakh: Port khula hona sirf chance hai,
 Version aur config batate hain ke tu andar jaa sakta hai ya nahi.**
-
----
-
-📌 **End of Note — Ports ka level complete!
-Tayyar ho agle mission ke liye? 😎**
-
-```
