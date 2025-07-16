@@ -34,9 +34,11 @@
 ---
 
 ## Mac Address Combination 
-Mac Address a-f tk or 0-9 tk hoo sakta hai example 
+Mac Address **a-f** tk or **0-9** tk hoo sakta hai example 
 
 **0b:21:da:4c:e5:7a**
+
+---
 
 ## 5. MAC Address Lookup
 
