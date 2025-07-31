@@ -2,7 +2,7 @@
 
 ---
 
-### **Step 1: Hub Kya Hai aur Kaisy Kaam Karta Hai?**
+### **Hub Kya Hai aur Kaisy Kaam Karta Hai?**
 
 1. Hub aik simple network device hoti hai.
 2. Agar is se 5 devices connected hain (wired ya wireless), aur koi aik device data send karta hai...
@@ -13,7 +13,7 @@
 
 ---
 
-### **Step 2: Switch Kya Hai aur Kaisy Kaam Karta Hai?**
+### **Switch Kya Hai aur Kaisy Kaam Karta Hai?**
 
 1. Switch hub se zyada smart device hai.
 2. Jab 5 devices switch se connected hon, aur device 1 sirf device 4 ko data bhejna chahta ho...
@@ -24,7 +24,7 @@
 
 ---
 
-### **Step 3: Router Kya Hai aur Kaisy Kaam Karta Hai?**
+### **Router Kya Hai aur Kaisy Kaam Karta Hai?**
 
 1. Router multiple networks ko aapas mein connect karta hai.
 2. Jaise ghar ka network internet se router ke zariye connect hota hai.
