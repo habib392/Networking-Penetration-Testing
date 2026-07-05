@@ -124,5 +124,6 @@ TCP secure hota hai, lekin zyada resources use karta hai
 
 ## 🧾 Summary Line:
 TCP = Reliable, Safe, Slow
+
 UDP = Fast, Risky, No Checking
 
